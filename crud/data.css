@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: red;
+    background-color:  rgb(188, 173, 0);
+    color: rgb(255, 255, 255);
+}
+.user{
+    margin: 200px 0px 0px 300px;
+}
+button{
+    width: 100px;
+    height: 35px;
+    background-color:  rgb(150, 16, 2);
+    border: none;
+    border-radius: 10px 0px 10px 0px;
+    /* color: #fff; */
+    
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font: bold;
+    
+}
+.tbl{
+   margin-left: 300px;
+}
